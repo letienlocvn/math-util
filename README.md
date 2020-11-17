@@ -8,7 +8,7 @@
 * README.md - this file itself to show the homepage of this repo 
 
 ## Connect me via 
-[Facebook](https://facebook.com/letienlocvn)
-[Email](mailto:letienlocvn@gmail.com)
+1. [Facebook](https://facebook.com/letienlocvn)
+2. [Email](mailto:letienlocvn@gmail.com)
 
 #### © 2020 by letienloc
