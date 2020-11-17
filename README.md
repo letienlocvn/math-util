@@ -10,5 +10,6 @@
 ## Connect me via 
 1. [Facebook](https://facebook.com/letienlocvn)
 2. [Email](mailto:letienlocvn@gmail.com)
+3. [Image of letienloc](C:\Users\WIN\Pictures\PTS\FilePSD\TestOne.png)
 
 #### © 2020 by letienloc
